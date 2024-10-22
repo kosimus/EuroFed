@@ -1,8 +1,8 @@
-# The European Confederate Constitution
+# The European Federation Constitution
 
 ## Project Overview
 
-Welcome to the ambitious project of drafting the European Confederate Constitution. This project aims to create a comprehensive and forward-thinking constitution that will serve as the foundation for a united and prosperous Europe. We envision a Europe where diverse nations come together to form a strong confederation, promoting peace, stability, and shared prosperity.
+Welcome to the ambitious project of drafting the European Federal Constitution. This project aims to create a comprehensive and forward-thinking constitution that will serve as the foundation for a united and prosperous Europe. We envision a Europe where diverse nations come together to form a strong federation, promoting peace, stability, and shared prosperity.
 
 ## Objectives
 
@@ -19,7 +19,7 @@ We invite experts in constitutional law, political science, economics, human rig
 
 ## How to Get Involved
 
-If you are interested in contributing to the European Confederate Constitution project, please reach out to us at [nicolaleone.ciardi@studenti.luiss.it](mailto:nicolaleone.ciardi@studenti.luiss.it). We welcome contributions in the form of research, drafting, review, and public consultation.
+If you are interested in contributing to the European Federal Constitution project, please reach out to us at [nicolaleone.ciardi@studenti.luiss.it](mailto:nicolaleone.ciardi@studenti.luiss.it). We welcome contributions in the form of research, drafting, review, and public consultation.
 
 Join us in shaping the future of Europe!
 
@@ -46,7 +46,7 @@ Join us in shaping the future of Europe!
 We, the people of Europe, of our own free will, in order to guarantee justice, cooperation, and prosperity for our territory, DECIDE to come together in assembly and promote the following:
 
 ### ARTICLE 1
-(1) Europe, united and indivisible, is a confederation of freely associated States.
+(1) Europe, united and indivisible, is a federation of freely associated States.
 (2) Sovereignty is a right of the people, exercised in the forms established by this Constitution.
 
 ## Contact Information
