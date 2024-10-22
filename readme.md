@@ -19,7 +19,7 @@ We invite experts in constitutional law, political science, economics, human rig
 
 ## How to Get Involved
 
-If you are interested in contributing to the European Confederate Constitution project, please reach out to us at [contact@europeanconfederateconstitution.org](mailto:contact@europeanconfederateconstitution.org). We welcome contributions in the form of research, drafting, review, and public consultation.
+If you are interested in contributing to the European Confederate Constitution project, please reach out to us at [nicolaleone.ciardi@studenti.luiss.it](mailto:nicolaleone.ciardi@studenti.luiss.it). We welcome contributions in the form of research, drafting, review, and public consultation.
 
 Join us in shaping the future of Europe!
 
@@ -53,8 +53,4 @@ We, the people of Europe, of our own free will, in order to guarantee justice, c
 
 For more information about the project or to get involved, please contact us at:
 
-Email: [contact@europeanconfederateconstitution.org](mailto:contact@europeanconfederateconstitution.org)
-Website: [www.europeanconfederateconstitution.org](http://www.europeanconfederateconstitution.org)
-
-
-
+Email: [nicolaleone.ciardi@studenti.luiss.it](mailto:nicolaleone.ciardi@studenti.luiss.it)
