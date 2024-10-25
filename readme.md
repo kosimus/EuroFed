@@ -41,16 +41,14 @@ Join us in shaping the future of Europe!
   - Seek ratification of the constitution by member states.
   - Implement the constitution and establish governing bodies.
 
-## Foundational Statement
-
-We, the people of Europe, of our own free will, in order to guarantee justice, cooperation, and prosperity for our territory, DECIDE to come together in assembly and promote the following:
-
-
 ## Constitution Drafts
 
 - [Preface](draft/preface.md)
 - [Article 1](draft/article_one.md)
 - [Article 2](draft/article_two.md)
+- [Article 3](draft/article_three.md)
+- [Article 4](draft/article_four.md)
+- [Article 5](draft/article_five.md)
 
 These links provide access to the current drafts of the constitution's preface and initial articles. We encourage all contributors to review these documents and provide feedback as we work together to shape the future of Europe.
 
