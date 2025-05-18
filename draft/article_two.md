@@ -7,7 +7,7 @@ The Federation recognizes and promotes linguistic diversity. It shall provide ne
 English shall be the official administrative language of the Federation for all governmental and legal proceedings, documents, and communications at the federal level.
 
 ## Section 3: Translation of documents
-Despite recognizing English as the administrative language, public documents may be translated into Member States' official languages to facilitate easier understanding by the people. The process and guidelines for such translations shall be determined by law.
+Despite recognizing English as the administrative language, public documents may be translated into Member States' official languages to facilitate easier understanding by the People. The process and guidelines for such translations shall be determined by law.
 
 ## Section 4: Future Language Considerations
 This article may be revised in the future if a new official European language is established and widely adopted. Such a revision would occur only after ensuring that a sufficient level of proficiency in the new language has been achieved across the Federation.
